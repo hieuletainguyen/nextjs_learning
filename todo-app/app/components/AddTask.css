@@ -1,0 +1,35 @@
+.add-task-container {
+    display: flex;
+    gap: 0.5rem;
+    max-width: 28rem; /* 448px */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+.task-input {
+    flex: 1;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    padding: 2px;
+
+}
+
+.task-input:focus {
+    outline: none;
+    border-color: transparent;
+    box-shadow: 0 0 0 2px #3b82f6;
+}
+
+.add-button {
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    transition: background-color 0.2s;
+}
+
+.add-button:hover {
+    background-color: #2563eb;
+} 

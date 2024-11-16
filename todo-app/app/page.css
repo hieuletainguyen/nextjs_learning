@@ -1,0 +1,41 @@
+.container {
+  max-width: 64rem; /* 4xl = 64rem */
+  margin: 1rem auto 0;
+  padding: 1.5rem;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  width: 100%;
+  margin: 1.25rem 0;
+  gap: 1rem;
+}
+
+.title {
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: #4b5563;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.todo-list-section {
+  text-align: center;
+  margin-top: 2rem;
+} 

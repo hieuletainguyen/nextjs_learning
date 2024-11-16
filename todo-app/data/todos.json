@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "text": "Buy milk from store",
+      "id": "1234-5678-9abc-def0"
+    },
+    {
+      "id": "2345-6789-abcd-ef01",
+      "text": "Walk the dog",
+      "completed": true
+    },
+    {
+      "id": "3456-789a-bcde-f012",
+      "text": "Clean the kitchen",
+      "completed": false
+    },
+    {
+      "id": "4567-89ab-cdef-0123",
+      "text": "Do laundry",
+      "completed": false
+    },
+    {
+      "id": "6789-abcd-ef01-2345",
+      "text": "Schedule dentist appointment",
+      "completed": false
+    },
+    {
+      "id": "789a-bcde-f012-3456",
+      "text": "Submit work report",
+      "completed": false
+    },
+    {
+      "id": "1d38568c-aba0-4340-846d-291f09b0b0b5",
+      "text": "Shopping for robot",
+      "completed": false
+    }
+  ]
+}
